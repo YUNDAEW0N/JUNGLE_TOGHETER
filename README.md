@@ -19,4 +19,4 @@ https://drive.google.com/file/d/1BI_8yh8TvaEFeLrKOWkmMFRGYjLJ44GH/view?usp=shari
 
 
 ## 발표영상링크
-[https://www.youtube.com/watch?v=uGUO5QkJJjg&t=4s](https://www.youtube.com/watch?v=oCE0FoLIwjg)
+https://youtu.be/HM3Rx4cJCMo
