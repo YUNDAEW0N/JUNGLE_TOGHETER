@@ -7,6 +7,10 @@
 
 ## MOBILE VER.
 
+| line 1 | line 2 |
+|--------|--------|
+|![KakaoTalk_20240608_230148720_04](https://github.com/YUNDAEW0N/JUNGLE_TOGHETER/assets/155865459/a0c65ff4-6918-442f-a08b-5fa02aaea97a)
+|![](https://picsum.photos/1000/1800)|
 
 
 
