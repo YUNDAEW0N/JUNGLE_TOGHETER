@@ -1,9 +1,10 @@
 # 우리들의 공유 캘린더 Toogether
 
 ## WEB VER.
-![toogetherweb1](https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/4a4f371d-be69-4866-ace0-c8c15960185a)
-![toogetherweb2](https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/958bc488-e788-418b-92b2-6e9225f127ae)
-![toogetherweb3](https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/ad546a97-87a4-49a1-9b31-60f932fdd262)
+<img src="https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/4a4f371d-be69-4866-ace0-c8c15960185a" height="300em" />
+<img src="https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/958bc488-e788-418b-92b2-6e9225f127ae" height="300em" />
+<img src="https://github.com/YUNDAEW0N/Team3_PintOs/assets/155865459/ad546a97-87a4-49a1-9b31-60f932fdd262" height="300em" />
+
 
 ## MOBILE VER.
 
