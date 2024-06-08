@@ -19,5 +19,5 @@ https://drive.google.com/file/d/1BI_8yh8TvaEFeLrKOWkmMFRGYjLJ44GH/view?usp=shari
 
 
 ## 발표영상링크
-https://youtu.be/HM3Rx4cJCMo
-https://youtu.be/wf_SEF_b-Dk
+현장 : https://youtu.be/HM3Rx4cJCMo
+영상 : https://youtu.be/wf_SEF_b-Dk
